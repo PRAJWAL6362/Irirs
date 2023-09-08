@@ -1,2 +1,2 @@
-# Irirs
+# Iris
 Prediction using Unsupervised ML
